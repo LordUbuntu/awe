@@ -1,5 +1,5 @@
 # AWE
-Awesome Webstarter Engine (AWE) is a startpage for the curious.
+AWEsome Webstarter Engine (AWE) is a startpage for the curious.
 
 ## Features
 __AWE IS__:
